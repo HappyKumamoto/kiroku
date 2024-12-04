@@ -1,0 +1,9 @@
+body {
+	*width: 800px;
+	text-align:center;
+	/*margin-right: auto;
+	margin-left: 150px;*/
+	margin-bottom: 100px;
+  background-color:#ffdbc9;
+  color: #aa0000;
+}

@@ -7,6 +7,9 @@ body {
         background-color:#ffdbc9;
         color: #aa0000;
 }
+p {
+	color: black;
+}
 
 a {
 	width: 200px;

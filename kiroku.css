@@ -1,8 +1,14 @@
+ .wrapper {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+/*     background: #cccccc; */
+  }
+  .txt {
+    display: inline-block;
+    text-align: left;
+  }
 body {
-        /* width: 800px; */
-	text-align:center;
-/* 	margin-right: auto; */
-	margin-left: auto;
 	margin-bottom: 100px;
         background-color:#ffdbc9;
         color: #aa0000;

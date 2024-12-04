@@ -1,5 +1,5 @@
 body {
-	*width: 800px;
+/* 	width: 800px; */
 	text-align:center;
 	/*margin-right: auto;
 	margin-left: 150px;*/
@@ -7,3 +7,7 @@ body {
   background-color:#ffdbc9;
   color: #aa0000;
 }
+
+a {
+	width: 200px;
+  }
